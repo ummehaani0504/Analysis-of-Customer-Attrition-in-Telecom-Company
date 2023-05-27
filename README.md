@@ -1,0 +1,2 @@
+# Analysis-of-Customer-Attrition-in-Telecom-Company
+Dataset is about telecom customers. Goal: determine correlation between customer_attrition &amp; independent variables like Data_Usage, Data_Plan MonthlyCharge etc. Analysis checks for missing/duplicate values, encodes using label encoding. Imputation techniques handle missing values. Chi-square, Z-tests examine correlation. MySQL queries query dataset
